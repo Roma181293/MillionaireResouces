@@ -2,16 +2,16 @@
   {
     "categoryName": "География",
     "imgURL": "",
-    "questionURL": "https://github.com/Roma181293/MillionaireResouces/blob/master/geography.json"
+    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/geography.json"
   },
   {
     "categoryName": "Литература",
     "imgURL": "",
-    "questionURL": "https://github.com/Roma181293/MillionaireResouces/blob/master/literature.json"
+    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/literature.json"
   },
   {
     "categoryName": "Спорт",
     "imgURL": "",
-    "questionURL": "https://github.com/Roma181293/MillionaireResouces/blob/master/sport.json"
+    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/sport.json"
   }
 ]
