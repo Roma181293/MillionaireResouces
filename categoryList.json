@@ -1,55 +1,66 @@
 [
   {
+    "id" : 0,
     "categoryName": "География",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/geography.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/geography.json"
   },
   {
+    "id" : 1,
     "categoryName": "Литература",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/literature.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/literature.json"
   },
   {
+    "id" : 2,
     "categoryName": "Спорт",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/sport.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/sport.json"
   },
   {
+    "id" : 3,
     "categoryName": "Тест с плохой ссылкой на картинку и без вопросов",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+     "id" : 4,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+    "id" : 5,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+    "id" : 6,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+    "id" : 7,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+    "id" : 8,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+    "id" : 9,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
+    "id" : 10,
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
