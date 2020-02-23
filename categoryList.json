@@ -52,17 +52,5 @@
     "categoryName": "Тест",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
-  },
-  {
-    "id" : 9,
-    "categoryName": "Тест",
-    "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
-    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
-  },
-  {
-    "id" : 10,
-    "categoryName": "Тест",
-    "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
-    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   }
 ]
