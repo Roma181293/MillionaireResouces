@@ -19,37 +19,13 @@
   },
   {
     "id" : 3,
-    "categoryName": "Тест с плохой ссылкой на картинку и без вопросов",
+    "categoryName": "Тест с плохой ссылкой на картинку и вопросы",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   },
   {
      "id" : 4,
-    "categoryName": "Тест",
-    "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
-    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
-  },
-  {
-    "id" : 5,
-    "categoryName": "Тест",
-    "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
-    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
-  },
-  {
-    "id" : 6,
-    "categoryName": "Тест",
-    "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
-    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
-  },
-  {
-    "id" : 7,
-    "categoryName": "Тест",
-    "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
-    "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
-  },
-  {
-    "id" : 8,
-    "categoryName": "Тест",
+    "categoryName": "Тест плохая ссылка на вопросы",
     "imgURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master/images/test-icon.jpg",
     "questionURL": "https://raw.githubusercontent.com/Roma181293/MillionaireResouces/master"
   }
